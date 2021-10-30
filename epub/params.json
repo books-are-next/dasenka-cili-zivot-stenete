@@ -36,36 +36,36 @@
             "filename": "dasenka_cili_zivot_stenete_001.md",
             "xhtml": "dasenka_cili_zivot_stenete_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_002.md",
             "xhtml": "dasenka_cili_zivot_stenete_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_003.md",
             "xhtml": "dasenka_cili_zivot_stenete_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_004.md",
             "xhtml": "dasenka_cili_zivot_stenete_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -75,7 +75,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Předmluva"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_006.md",
@@ -84,7 +85,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Dášeňka\nčili život štěněte"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_007.md",
@@ -120,7 +122,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak se\nfotografuje štěně"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_011.md",
@@ -138,7 +141,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Pohádky pro Dášeňku,\naby tiše seděla"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_013.md",
@@ -228,7 +232,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Fotografická\npříloha"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_023.md",
@@ -516,7 +521,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_055.md",
@@ -525,7 +531,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Život\na doba spisovatele\nKarla Čapka v datech"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_056.md",
@@ -534,7 +541,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "První vydání knih Karla Čapka"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_057.md",
@@ -543,18 +551,20 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_058.md",
             "xhtml": "dasenka_cili_zivot_stenete_058.html",
             "id": 57,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
-        ]
+        ],
+        "numberedChildren": false
       }
     ]
   },
@@ -564,8 +574,7 @@
       "identifier": "a6f6e36d-973d-4e9f-ac78-144c92e2d00e",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-30T18:40:32.844Z",
-      "languageCode": "cs"
+      "modified": "2021-10-30T18:51:12.189Z"
     },
     "chapters": [
       {
@@ -593,13 +602,13 @@
         "xhtml": "dasenka_cili_zivot_stenete_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Předmluva",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_005.md",
         "xhtml": "dasenka_cili_zivot_stenete_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dášeňka\nčili život štěněte",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_006.md",
         "xhtml": "dasenka_cili_zivot_stenete_006.html"
@@ -623,7 +632,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak se\nfotografuje štěně",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_010.md",
         "xhtml": "dasenka_cili_zivot_stenete_010.html"
@@ -635,7 +644,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohádky pro Dášeňku,\naby tiše seděla",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_012.md",
         "xhtml": "dasenka_cili_zivot_stenete_012.html"
@@ -695,7 +704,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Fotografická\npříloha",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_022.md",
         "xhtml": "dasenka_cili_zivot_stenete_022.html"
@@ -887,25 +896,25 @@
         "xhtml": "dasenka_cili_zivot_stenete_053.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_054.md",
         "xhtml": "dasenka_cili_zivot_stenete_054.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_055.md",
         "xhtml": "dasenka_cili_zivot_stenete_055.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "První vydání knih Karla Čapka",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_056.md",
         "xhtml": "dasenka_cili_zivot_stenete_056.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_057.md",
         "xhtml": "dasenka_cili_zivot_stenete_057.html"
@@ -1361,6 +1370,6 @@
       "user": "books-are-next",
       "repo": "dasenka-cili-zivot-stenete"
     },
-    "generatedAt": 1635619233430
+    "generatedAt": 1635619872741
   }
 }
