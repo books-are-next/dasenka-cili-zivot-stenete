@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="a6f6e36d-973d-4e9f-ac78-144c92e2d00e" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Dášeňka čili život štěněte</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Předmluva</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Dášeňka čili život štěněte</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_006.html"/>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Kapitola 1</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_007.html"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>Kapitola 2</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_008.html"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Kapitola 3</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_009.html"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Kapitola 4</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_009.html#sigil_toc_id_1"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Jak se fotografuje štěně</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Pohádky pro Dášeňku, aby tiše seděla</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_012.html"/>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Pohádka o psím ocásku</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_013.html"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Proč teriéři hrabou</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_014.html"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>O Foxovi</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_015.html"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>O Alíkovi</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_016.html"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>O dobrmanech</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_017.html"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>O chrtech a jiných psech</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_018.html"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>O psích zvycích</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_019.html"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>O lidech</text>
+        </navLabel>
+        <content src="Text/dasenka_cili_zivot_stenete_020.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Fotografická příloha</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Ediční poznámka</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_054.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Život a doba spisovatele Karla Čapka v datech</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_055.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>První vydání knih Karla Čapka</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_056.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Poznámky pod čarou</text>
+      </navLabel>
+      <content src="Text/dasenka_cili_zivot_stenete_057.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
