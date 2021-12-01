@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-30T18:40:32.844Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - dasenka_cili_zivot_stenete_001.html
   - dasenka_cili_zivot_stenete_002.html
   - dasenka_cili_zivot_stenete_005.html
   - dasenka_cili_zivot_stenete_006.html

@@ -1,36 +1,18 @@
 {
   "author": "Karel Čapek",
-  "identifier": "capek-dasenka-cili-zivot-stenete-28090c1",
+  "edition": "beletrie",
+  "identifier": "capek-dasenka-cili-zivot-stenete-3831c02",
   "languagecode": "cs",
   "modified": "2021-10-30T18:40:32.844Z",
   "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
   "title": "Dášeňka čili život štěněte",
-  "revision": "28090c1",
+  "revision": "3831c02",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:16:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638393370941
+    "date": "Wed Dec 01 2021 21:50:16 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638395416151
   },
   "documents": [
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "dasenka_cili_zivot_stenete_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_002.html",
@@ -38,8 +20,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "dasenka_cili_zivot_stenete_001.html",
+      "order": 0,
+      "prev": null,
       "next": "dasenka_cili_zivot_stenete_005.html",
       "toc": [
         {
@@ -58,7 +40,7 @@
       "chars": 931,
       "ideas": 6,
       "role": "chapter",
-      "order": 2,
+      "order": 1,
       "prev": "dasenka_cili_zivot_stenete_002.html",
       "next": "dasenka_cili_zivot_stenete_006.html",
       "toc": [
@@ -78,7 +60,7 @@
       "chars": 25,
       "ideas": 2,
       "role": "chapter",
-      "order": 3,
+      "order": 2,
       "prev": "dasenka_cili_zivot_stenete_005.html",
       "next": "dasenka_cili_zivot_stenete_007.html",
       "toc": [
@@ -98,7 +80,7 @@
       "chars": 5640,
       "ideas": 26,
       "role": "chapter",
-      "order": 4,
+      "order": 3,
       "prev": "dasenka_cili_zivot_stenete_006.html",
       "next": "dasenka_cili_zivot_stenete_008.html",
       "toc": [
@@ -126,7 +108,7 @@
       "chars": 4528,
       "ideas": 20,
       "role": "chapter",
-      "order": 5,
+      "order": 4,
       "prev": "dasenka_cili_zivot_stenete_007.html",
       "next": "dasenka_cili_zivot_stenete_009.html",
       "toc": [
@@ -154,7 +136,7 @@
       "chars": 10219,
       "ideas": 73,
       "role": "chapter",
-      "order": 6,
+      "order": 5,
       "prev": "dasenka_cili_zivot_stenete_008.html",
       "next": "dasenka_cili_zivot_stenete_010.html",
       "toc": [
@@ -189,7 +171,7 @@
       "chars": 23,
       "ideas": 2,
       "role": "chapter",
-      "order": 7,
+      "order": 6,
       "prev": "dasenka_cili_zivot_stenete_009.html",
       "next": "dasenka_cili_zivot_stenete_011.html",
       "toc": [
@@ -209,7 +191,7 @@
       "chars": 2830,
       "ideas": 10,
       "role": "chapter",
-      "order": 8,
+      "order": 7,
       "prev": "dasenka_cili_zivot_stenete_010.html",
       "next": "dasenka_cili_zivot_stenete_012.html",
       "toc": [
@@ -229,7 +211,7 @@
       "chars": 35,
       "ideas": 2,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "dasenka_cili_zivot_stenete_011.html",
       "next": "dasenka_cili_zivot_stenete_013.html",
       "toc": [
@@ -249,7 +231,7 @@
       "chars": 3124,
       "ideas": 10,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "dasenka_cili_zivot_stenete_012.html",
       "next": "dasenka_cili_zivot_stenete_014.html",
       "toc": [
@@ -277,7 +259,7 @@
       "chars": 2320,
       "ideas": 10,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "dasenka_cili_zivot_stenete_013.html",
       "next": "dasenka_cili_zivot_stenete_015.html",
       "toc": [
@@ -305,7 +287,7 @@
       "chars": 2226,
       "ideas": 11,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "dasenka_cili_zivot_stenete_014.html",
       "next": "dasenka_cili_zivot_stenete_016.html",
       "toc": [
@@ -333,7 +315,7 @@
       "chars": 1197,
       "ideas": 6,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "dasenka_cili_zivot_stenete_015.html",
       "next": "dasenka_cili_zivot_stenete_017.html",
       "toc": [
@@ -361,7 +343,7 @@
       "chars": 1061,
       "ideas": 9,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "dasenka_cili_zivot_stenete_016.html",
       "next": "dasenka_cili_zivot_stenete_018.html",
       "toc": [
@@ -389,7 +371,7 @@
       "chars": 1585,
       "ideas": 8,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "dasenka_cili_zivot_stenete_017.html",
       "next": "dasenka_cili_zivot_stenete_019.html",
       "toc": [
@@ -417,7 +399,7 @@
       "chars": 1884,
       "ideas": 12,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "dasenka_cili_zivot_stenete_018.html",
       "next": "dasenka_cili_zivot_stenete_020.html",
       "toc": [
@@ -445,7 +427,7 @@
       "chars": 1533,
       "ideas": 9,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "dasenka_cili_zivot_stenete_019.html",
       "next": "dasenka_cili_zivot_stenete_021.html",
       "toc": [
@@ -473,7 +455,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "dasenka_cili_zivot_stenete_020.html",
       "next": "dasenka_cili_zivot_stenete_022.html",
       "toc": [
@@ -493,7 +475,7 @@
       "chars": 19,
       "ideas": 2,
       "role": "chapter",
-      "order": 19,
+      "order": 18,
       "prev": "dasenka_cili_zivot_stenete_021.html",
       "next": "dasenka_cili_zivot_stenete_023.html",
       "toc": [
@@ -513,7 +495,7 @@
       "chars": 31,
       "ideas": 2,
       "role": "chapter",
-      "order": 20,
+      "order": 19,
       "prev": "dasenka_cili_zivot_stenete_022.html",
       "next": "dasenka_cili_zivot_stenete_024.html",
       "toc": [
@@ -533,7 +515,7 @@
       "chars": 20,
       "ideas": 2,
       "role": "chapter",
-      "order": 21,
+      "order": 20,
       "prev": "dasenka_cili_zivot_stenete_023.html",
       "next": "dasenka_cili_zivot_stenete_025.html",
       "toc": [
@@ -553,7 +535,7 @@
       "chars": 13,
       "ideas": 2,
       "role": "chapter",
-      "order": 22,
+      "order": 21,
       "prev": "dasenka_cili_zivot_stenete_024.html",
       "next": "dasenka_cili_zivot_stenete_026.html",
       "toc": [
@@ -573,7 +555,7 @@
       "chars": 21,
       "ideas": 2,
       "role": "chapter",
-      "order": 23,
+      "order": 22,
       "prev": "dasenka_cili_zivot_stenete_025.html",
       "next": "dasenka_cili_zivot_stenete_027.html",
       "toc": [
@@ -593,7 +575,7 @@
       "chars": 19,
       "ideas": 2,
       "role": "chapter",
-      "order": 24,
+      "order": 23,
       "prev": "dasenka_cili_zivot_stenete_026.html",
       "next": "dasenka_cili_zivot_stenete_028.html",
       "toc": [
@@ -613,7 +595,7 @@
       "chars": 17,
       "ideas": 2,
       "role": "chapter",
-      "order": 25,
+      "order": 24,
       "prev": "dasenka_cili_zivot_stenete_027.html",
       "next": "dasenka_cili_zivot_stenete_029.html",
       "toc": [
@@ -633,7 +615,7 @@
       "chars": 15,
       "ideas": 2,
       "role": "chapter",
-      "order": 26,
+      "order": 25,
       "prev": "dasenka_cili_zivot_stenete_028.html",
       "next": "dasenka_cili_zivot_stenete_030.html",
       "toc": [
@@ -653,7 +635,7 @@
       "chars": 6,
       "ideas": 2,
       "role": "chapter",
-      "order": 27,
+      "order": 26,
       "prev": "dasenka_cili_zivot_stenete_029.html",
       "next": "dasenka_cili_zivot_stenete_031.html",
       "toc": [
@@ -673,7 +655,7 @@
       "chars": 18,
       "ideas": 2,
       "role": "chapter",
-      "order": 28,
+      "order": 27,
       "prev": "dasenka_cili_zivot_stenete_030.html",
       "next": "dasenka_cili_zivot_stenete_032.html",
       "toc": [
@@ -693,7 +675,7 @@
       "chars": 22,
       "ideas": 2,
       "role": "chapter",
-      "order": 29,
+      "order": 28,
       "prev": "dasenka_cili_zivot_stenete_031.html",
       "next": "dasenka_cili_zivot_stenete_033.html",
       "toc": [
@@ -713,7 +695,7 @@
       "chars": 18,
       "ideas": 2,
       "role": "chapter",
-      "order": 30,
+      "order": 29,
       "prev": "dasenka_cili_zivot_stenete_032.html",
       "next": "dasenka_cili_zivot_stenete_034.html",
       "toc": [
@@ -733,7 +715,7 @@
       "chars": 8,
       "ideas": 2,
       "role": "chapter",
-      "order": 31,
+      "order": 30,
       "prev": "dasenka_cili_zivot_stenete_033.html",
       "next": "dasenka_cili_zivot_stenete_035.html",
       "toc": [
@@ -753,7 +735,7 @@
       "chars": 13,
       "ideas": 2,
       "role": "chapter",
-      "order": 32,
+      "order": 31,
       "prev": "dasenka_cili_zivot_stenete_034.html",
       "next": "dasenka_cili_zivot_stenete_036.html",
       "toc": [
@@ -773,7 +755,7 @@
       "chars": 18,
       "ideas": 2,
       "role": "chapter",
-      "order": 33,
+      "order": 32,
       "prev": "dasenka_cili_zivot_stenete_035.html",
       "next": "dasenka_cili_zivot_stenete_037.html",
       "toc": [
@@ -793,7 +775,7 @@
       "chars": 14,
       "ideas": 2,
       "role": "chapter",
-      "order": 34,
+      "order": 33,
       "prev": "dasenka_cili_zivot_stenete_036.html",
       "next": "dasenka_cili_zivot_stenete_038.html",
       "toc": [
@@ -813,7 +795,7 @@
       "chars": 15,
       "ideas": 2,
       "role": "chapter",
-      "order": 35,
+      "order": 34,
       "prev": "dasenka_cili_zivot_stenete_037.html",
       "next": "dasenka_cili_zivot_stenete_039.html",
       "toc": [
@@ -833,7 +815,7 @@
       "chars": 28,
       "ideas": 2,
       "role": "chapter",
-      "order": 36,
+      "order": 35,
       "prev": "dasenka_cili_zivot_stenete_038.html",
       "next": "dasenka_cili_zivot_stenete_040.html",
       "toc": [
@@ -853,7 +835,7 @@
       "chars": 11,
       "ideas": 2,
       "role": "chapter",
-      "order": 37,
+      "order": 36,
       "prev": "dasenka_cili_zivot_stenete_039.html",
       "next": "dasenka_cili_zivot_stenete_041.html",
       "toc": [
@@ -873,7 +855,7 @@
       "chars": 26,
       "ideas": 2,
       "role": "chapter",
-      "order": 38,
+      "order": 37,
       "prev": "dasenka_cili_zivot_stenete_040.html",
       "next": "dasenka_cili_zivot_stenete_042.html",
       "toc": [
@@ -893,7 +875,7 @@
       "chars": 17,
       "ideas": 2,
       "role": "chapter",
-      "order": 39,
+      "order": 38,
       "prev": "dasenka_cili_zivot_stenete_041.html",
       "next": "dasenka_cili_zivot_stenete_043.html",
       "toc": [
@@ -913,7 +895,7 @@
       "chars": 9,
       "ideas": 2,
       "role": "chapter",
-      "order": 40,
+      "order": 39,
       "prev": "dasenka_cili_zivot_stenete_042.html",
       "next": "dasenka_cili_zivot_stenete_044.html",
       "toc": [
@@ -933,7 +915,7 @@
       "chars": 18,
       "ideas": 2,
       "role": "chapter",
-      "order": 41,
+      "order": 40,
       "prev": "dasenka_cili_zivot_stenete_043.html",
       "next": "dasenka_cili_zivot_stenete_045.html",
       "toc": [
@@ -953,7 +935,7 @@
       "chars": 9,
       "ideas": 2,
       "role": "chapter",
-      "order": 42,
+      "order": 41,
       "prev": "dasenka_cili_zivot_stenete_044.html",
       "next": "dasenka_cili_zivot_stenete_046.html",
       "toc": [
@@ -973,7 +955,7 @@
       "chars": 7,
       "ideas": 2,
       "role": "chapter",
-      "order": 43,
+      "order": 42,
       "prev": "dasenka_cili_zivot_stenete_045.html",
       "next": "dasenka_cili_zivot_stenete_047.html",
       "toc": [
@@ -993,7 +975,7 @@
       "chars": 20,
       "ideas": 2,
       "role": "chapter",
-      "order": 44,
+      "order": 43,
       "prev": "dasenka_cili_zivot_stenete_046.html",
       "next": "dasenka_cili_zivot_stenete_048.html",
       "toc": [
@@ -1013,7 +995,7 @@
       "chars": 9,
       "ideas": 2,
       "role": "chapter",
-      "order": 45,
+      "order": 44,
       "prev": "dasenka_cili_zivot_stenete_047.html",
       "next": "dasenka_cili_zivot_stenete_049.html",
       "toc": [
@@ -1033,7 +1015,7 @@
       "chars": 6,
       "ideas": 2,
       "role": "chapter",
-      "order": 46,
+      "order": 45,
       "prev": "dasenka_cili_zivot_stenete_048.html",
       "next": "dasenka_cili_zivot_stenete_050.html",
       "toc": [
@@ -1053,7 +1035,7 @@
       "chars": 13,
       "ideas": 2,
       "role": "chapter",
-      "order": 47,
+      "order": 46,
       "prev": "dasenka_cili_zivot_stenete_049.html",
       "next": "dasenka_cili_zivot_stenete_051.html",
       "toc": [
@@ -1073,7 +1055,7 @@
       "chars": 14,
       "ideas": 2,
       "role": "chapter",
-      "order": 48,
+      "order": 47,
       "prev": "dasenka_cili_zivot_stenete_050.html",
       "next": "dasenka_cili_zivot_stenete_052.html",
       "toc": [
@@ -1093,7 +1075,7 @@
       "chars": 10,
       "ideas": 2,
       "role": "chapter",
-      "order": 49,
+      "order": 48,
       "prev": "dasenka_cili_zivot_stenete_051.html",
       "next": "dasenka_cili_zivot_stenete_053.html",
       "toc": [
@@ -1113,7 +1095,7 @@
       "chars": 11,
       "ideas": 2,
       "role": "chapter",
-      "order": 50,
+      "order": 49,
       "prev": "dasenka_cili_zivot_stenete_052.html",
       "next": "dasenka_cili_zivot_stenete_054.html",
       "toc": [
@@ -1133,7 +1115,7 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 51,
+      "order": 50,
       "prev": "dasenka_cili_zivot_stenete_053.html",
       "next": "dasenka_cili_zivot_stenete_055.html",
       "toc": [
@@ -1153,7 +1135,7 @@
       "chars": 2024,
       "ideas": 33,
       "role": "chapter",
-      "order": 52,
+      "order": 51,
       "prev": "dasenka_cili_zivot_stenete_054.html",
       "next": "dasenka_cili_zivot_stenete_056.html",
       "toc": [
@@ -1173,7 +1155,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 53,
+      "order": 52,
       "prev": "dasenka_cili_zivot_stenete_055.html",
       "next": "dasenka_cili_zivot_stenete_057.html",
       "toc": [
@@ -1193,7 +1175,7 @@
       "chars": 256,
       "ideas": 4,
       "role": "chapter",
-      "order": 54,
+      "order": 53,
       "prev": "dasenka_cili_zivot_stenete_056.html",
       "next": "colophon.html",
       "toc": [
@@ -1229,9 +1211,9 @@
   ],
   "totals": {
     "all": {
-      "words": 7862,
-      "chars": 44677,
-      "ideas": 414
+      "words": 7864,
+      "chars": 44688,
+      "ideas": 416
     },
     "chapters": {
       "words": 7714,

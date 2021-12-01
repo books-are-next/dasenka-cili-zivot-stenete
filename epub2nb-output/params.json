@@ -6,7 +6,9 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-30T18:40:32.844Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2kapitola \nmlpuroven2kapitolasamostatne ",
@@ -36,7 +38,7 @@
             "filename": "dasenka_cili_zivot_stenete_001.md",
             "xhtml": "dasenka_cili_zivot_stenete_001.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -574,7 +576,7 @@
       "identifier": "a6f6e36d-973d-4e9f-ac78-144c92e2d00e",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:15:04.839Z"
+      "modified": "2021-12-01T21:49:19.012Z"
     },
     "chapters": [
       {
@@ -1370,6 +1372,6 @@
       "user": "books-are-next",
       "repo": "dasenka-cili-zivot-stenete"
     },
-    "generatedAt": 1638393305389
+    "generatedAt": 1638395359737
   }
 }
