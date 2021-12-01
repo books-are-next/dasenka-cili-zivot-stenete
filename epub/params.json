@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Dášeňka čili život štěněte",
@@ -6,7 +7,9 @@
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-30T18:40:32.844Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "mlpuroven2kapitola \nmlpuroven2kapitolasamostatne ",
@@ -36,7 +39,7 @@
             "filename": "dasenka_cili_zivot_stenete_001.md",
             "xhtml": "dasenka_cili_zivot_stenete_001.html",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -1373,3 +1376,4 @@
     "generatedAt": 1635619872741
   }
 }
+
