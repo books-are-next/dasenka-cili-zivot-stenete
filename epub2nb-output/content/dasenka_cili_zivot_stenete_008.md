@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Kapitola 2
 ---
-
-## Kapitola 2
 
 Jak vidíte, děti, dá to hodně práce, a hlas přírody, jemine, to je vám přísný učitel, nic takovému štěněti nesleví. Jenže někdy nemá kdy napovídat, protože musí učit lítat mladého vrabce nebo ukázat housence, které listy žrát a kterých nechat. Tehdy uloží Dášeňce jenom domácí úkol (například přejít v úhlopříčně celou psí boudu z rohu do rohu) a nechá ji, aby se s tím, chudera malá, dřela sama. Dášeňka dává pozor, až jazejček samou pozorností vyplazuje: pravá přední – teď levá zadní (jezusmankote, která vlastně je levá, ta nebo ta?) – a druhá zadní (kdepak já ji mám?) – a co teď? „Špatně,“ volá na ni hlas přírody, celý udýchaný, jak učí vrabce lítat, „musíš dělat menší kroky, Dášeňko, a hlavu nahoru a tlapky pěkně pod sebe znovu!“ Copak hlas přírody, tomu se to káže; ale když jsou ty nožičky měkké jako z nití a třesou se jako z rosolu, dělejte s nimi něco! A když máme takový plný bříšek a takovou velikou hlavu, myslíte, že to je malá práce? Dášeňka si sedne zdrceně uprostřed boudy a fňuká. A tu je máma Iris, těší psí holčičku a dá jí napít; pak obě usnou, ale Dášeňka se hned probouzí, vzpomněla si, že nedodělala domácí úkol, a drápe se rovnou přes mámin hřbet do toho druhého rohu psí boudy. „Dobře, Dášeňko,“ chválí ji hlas přírody, „budeš-li se takhle pilně učit, bude z tebe pejsek rychlý jako vítr.“
 

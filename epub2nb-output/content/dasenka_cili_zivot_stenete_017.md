@@ -1,8 +1,6 @@
 ---
-title: ''
+title: O dobrmanech
 ---
-
-## O dobrmanech
 
 Pravda, někteří jiní psi mají také useknuté ocásky, například dobrmani – však víš, jak vypadá dobrman, ne? Je to takový černý nebo hnědý halama, samé nohy, a ocásek má ufiknutý u samého zadečku. Ale to není na památku po Foxlíkovi, kdepak! Seď tiše, a já ti povím, proč se dobrmanům utínají ocásky.
 

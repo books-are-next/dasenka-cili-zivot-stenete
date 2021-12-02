@@ -1,8 +1,6 @@
 ---
-title: ''
+title: O lidech
 ---
-
-## O lidech
 
 Nic platno, Dášo, už brzo budeš muset jít mezi jiné lidi a budeš patřit do jiné smečky. Tak já ti něco povím o lidech.
 

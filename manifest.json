@@ -1,16 +1,16 @@
 {
   "author": "Karel Čapek",
   "edition": "beletrie",
-  "identifier": "capek-dasenka-cili-zivot-stenete-3831c02",
+  "identifier": "capek-dasenka-cili-zivot-stenete-9873215",
   "languagecode": "cs",
   "modified": "2021-10-30T18:40:32.844Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Dášeňka čili život štěněte",
-  "revision": "3831c02",
+  "revision": "9873215",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 21:50:16 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638395416151
+    "date": "Thu Dec 02 2021 17:46:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638467197757
   },
   "documents": [
     {
@@ -74,7 +74,7 @@
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "Kapitola 1 • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_007.html",
       "words": 1033,
       "chars": 5640,
@@ -87,22 +87,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola 1",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola 1",
-              "id": "kapitola-1",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "Kapitola 2 • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_008.html",
       "words": 827,
       "chars": 4528,
@@ -115,22 +107,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola 2",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola 2",
-              "id": "kapitola-2",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "Kapitola 3 • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_009.html",
       "words": 1761,
       "chars": 10219,
@@ -143,24 +127,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Kapitola 3",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Kapitola 3",
-              "id": "kapitola-3",
-              "children": []
-            },
-            {
-              "index": 2,
-              "level": 2,
-              "name": "Kapitola 4",
-              "id": "kapitola-4",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
@@ -225,7 +194,7 @@
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "Pohádka o psím ocásku • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_013.html",
       "words": 553,
       "chars": 3124,
@@ -238,22 +207,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Pohádka o psím ocásku",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Pohádka o psím ocásku",
-              "id": "pohádka-onbsppsím-ocásku",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "Proč teriéři hrabou • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_014.html",
       "words": 385,
       "chars": 2320,
@@ -266,22 +227,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Proč teriéři hrabou",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Proč teriéři hrabou",
-              "id": "proč-teriéři-hrabou",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "O Foxovi • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_015.html",
       "words": 419,
       "chars": 2226,
@@ -294,22 +247,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O Foxovi",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "O Foxovi",
-              "id": "onbspfoxovi",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "O Alíkovi • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_016.html",
       "words": 211,
       "chars": 1197,
@@ -322,22 +267,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O Alíkovi",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "O Alíkovi",
-              "id": "onbspalíkovi",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "O dobrmanech • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_017.html",
       "words": 185,
       "chars": 1061,
@@ -350,22 +287,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O dobrmanech",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "O dobrmanech",
-              "id": "onbspdobrmanech",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "O chrtech a jiných psech • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_018.html",
       "words": 284,
       "chars": 1585,
@@ -378,22 +307,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O chrtech a jiných psech",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "O chrtech a jiných psech",
-              "id": "onbspchrtech-anbspjiných-psech",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "O psích zvycích • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_019.html",
       "words": 359,
       "chars": 1884,
@@ -406,22 +327,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O psích zvycích",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "O psích zvycích",
-              "id": "onbsppsích-zvycích",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },
     {
-      "title": "Dášeňka čili život štěněte",
+      "title": "O lidech • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_020.html",
       "words": 301,
       "chars": 1533,
@@ -434,17 +347,9 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "O lidech",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "O lidech",
-              "id": "onbsplidech",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     },

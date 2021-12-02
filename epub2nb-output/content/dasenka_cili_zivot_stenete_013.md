@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Pohádka o psím ocásku
 ---
-
-## Pohádka o psím ocásku
 
 Tak poslouchej, Dášo, když budeš chvilinku pěkně sedět, povím ti pohádku. O čem pohádku? No, třeba pohádku o psím ocásku.
 

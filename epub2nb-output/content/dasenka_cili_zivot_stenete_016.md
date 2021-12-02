@@ -1,8 +1,6 @@
 ---
-title: ''
+title: O Alíkovi
 ---
-
-## O Alíkovi
 
 Počkej, Dášeňko, dnes tě budu fotografovat, jak sedíš moudře a způsobně na zápraží.
 
