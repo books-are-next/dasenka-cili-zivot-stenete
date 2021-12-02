@@ -98,7 +98,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Kapitola 1"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_008.md",
@@ -107,7 +108,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Kapitola 2"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_009.md",
@@ -116,7 +118,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Kapitola 3"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_010.md",
@@ -135,7 +138,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Řeknu to rovnou...",
+            "hiddenTitle": true
           },
           {
             "filename": "dasenka_cili_zivot_stenete_012.md",
@@ -154,7 +159,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Pohádka o psím ocásku"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_014.md",
@@ -163,7 +169,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "Proč teriéři hrabou"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_015.md",
@@ -172,7 +179,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O Foxovi"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_016.md",
@@ -181,7 +189,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O Alíkovi"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_017.md",
@@ -190,7 +199,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O dobrmanech"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_018.md",
@@ -199,7 +209,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O chrtech a jiných psech"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_019.md",
@@ -208,7 +219,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O psích zvycích"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_020.md",
@@ -217,7 +229,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": []
+            "children": [],
+            "title": "O lidech"
           },
           {
             "filename": "dasenka_cili_zivot_stenete_021.md",
@@ -576,7 +589,7 @@
       "identifier": "a6f6e36d-973d-4e9f-ac78-144c92e2d00e",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:49:19.012Z"
+      "modified": "2021-12-02T17:45:45.177Z"
     },
     "chapters": [
       {
@@ -616,19 +629,19 @@
         "xhtml": "dasenka_cili_zivot_stenete_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 1",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_007.md",
         "xhtml": "dasenka_cili_zivot_stenete_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 2",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_008.md",
         "xhtml": "dasenka_cili_zivot_stenete_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Kapitola 3",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_009.md",
         "xhtml": "dasenka_cili_zivot_stenete_009.html"
@@ -652,49 +665,49 @@
         "xhtml": "dasenka_cili_zivot_stenete_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pohádka o psím ocásku",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_013.md",
         "xhtml": "dasenka_cili_zivot_stenete_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Proč teriéři hrabou",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_014.md",
         "xhtml": "dasenka_cili_zivot_stenete_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O Foxovi",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_015.md",
         "xhtml": "dasenka_cili_zivot_stenete_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O Alíkovi",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_016.md",
         "xhtml": "dasenka_cili_zivot_stenete_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O dobrmanech",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_017.md",
         "xhtml": "dasenka_cili_zivot_stenete_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O chrtech a jiných psech",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_018.md",
         "xhtml": "dasenka_cili_zivot_stenete_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O psích zvycích",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_019.md",
         "xhtml": "dasenka_cili_zivot_stenete_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O lidech",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_020.md",
         "xhtml": "dasenka_cili_zivot_stenete_020.html"
@@ -1372,6 +1385,6 @@
       "user": "books-are-next",
       "repo": "dasenka-cili-zivot-stenete"
     },
-    "generatedAt": 1638395359737
+    "generatedAt": 1638467145724
   }
 }
