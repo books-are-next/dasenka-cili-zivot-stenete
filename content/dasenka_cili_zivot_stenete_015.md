@@ -1,8 +1,6 @@
 ---
-title: ''
+title: O Foxovi
 ---
-
-## O Foxovi
 
 Když budeš moment držet, Dášeňko, povím ti pohádku o Foxovi.
 

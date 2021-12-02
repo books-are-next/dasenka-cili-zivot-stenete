@@ -100,6 +100,7 @@ tocBase:
       - link: dasenka_cili_zivot_stenete_057.html
         title: Poznámky pod čarou
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

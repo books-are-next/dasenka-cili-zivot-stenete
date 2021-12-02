@@ -1,8 +1,6 @@
 ---
-title: ''
+title: Kapitola 3
 ---
-
-## Kapitola 3
 
 Mnoho vody uteklo a zejména mnoho loužiček bylo vyceděno. Dášeňka už není bezmocný uzlíček s třesoucím se ocáskem, nýbrž náramně samostatný, chlupatý a všetečný, zubatý a neposedný, žravý a ničivý tvor. Přírodopisně řečeno, vyvinul se z ní obratlovec (neboť se vrtí jako na obrtlíku) z čeládky šelem šelmovských a psovitých, podčeleď neposedů, rod šmejdilů, rodina tatrmanů, odrůda tajtrlíků černouchých. Jde si, kam se jí zlíbí; celý dům, celá zahrada, celý vesmír, až kam plot sahá, jsou jejím majetkem. V tomto vesmíru je plno věcí, které je nutno vyzkoušet co do jejich kousatelnosti a případně sežratelnosti; je tu plno tajemných místností, ve kterých lze provádět zajímavé pokusy, kde se nejlíp dělají loužičky. (Dášeňka se rozhodla pro mou pracovnu a její okolí, ale někdy dává přednost jídelně.) Dále je třeba zjišťovat, na čem se nejlíp spí (zvláště na utěrkách, v člověčí náruči, uprostřed kvetoucího záhonu, na smetáku, na čerstvě vyžehleném prádle, v koši, v nákupní tašce, na kozí kůži, na střevících, v pařeništi, na lopatce se smetím, na rohoži, ba i na zemi). Jsou předměty, které slouží zábavě, například schody, z nichž se lze úspěšně střemhlav skutálet (to je vám psina, myslí si Dášeňka, padajíc po hubě ze schodů); jsou předměty nebezpečné a nevypočitatelné, jako třeba dveře, které ducnou do hlavy nebo skřípnou tlapku či ocásek, když se toho nejmíň nadáte. V takovém případě Dášeňka zakvílí, jako by ji na nože bral, a ještě chvíli štká v konejšivé lidské náruči; pak dostane pro útěchu slupnout něco dobrého a jde si zase spadnout ze schodů.
 
@@ -44,7 +42,7 @@ Pozor, voda!
 
 Běh o závod
 
-## Kapitola 4
+### Kapitola 4
 
 Ale abychom to brali po pořádku, tedy 1. hlavní, co má Dášeňka na práci, je _běhat_. Teď už to, panečku, nejsou ty namáhavé a potácivé první kroky, nýbrž sportovní výkony vyššího stupně, jako běh, cval, trysk, skok daleký, skok vysoký, let, hon, kalup, pelášení, sprint, spurt na deset yardů, dále různé pády, jako pád nosmo, hřbetmo, pád na hlavu, kotrmelec v běhu s jedním nebo více přemety, rozběhy s překážkami, běh s handicapem (například s utěrkou v hubě), různé způsoby kutálení, překocení, svalení, přemetů, veletočů a dopadů, útok, útěk, odskok a úprk, zkrátka všechno, co lehká psí atletika obnáší. V tom oboru jí dává lekce její obětavá máma; žene se po zahradě přes záhony a jiné překážky, letí jako chlupatý šíp a Dášeňka spurtuje za ní; máma zakličkuje, a protože tohle je něco, co malá ještě nedovede, udělá parádní kotrmelec, neboť jinak se neumí zastavit. Nebo máma obíhá v kruhu a Dášeňka za ní; ale protože ještě neví, co je to odstředivá síla (fyzika se u pejsků učí až později), vyhodí ji odstředivá síla do vzduchu skvělým přemetem. Po každém takovém fyzikálním úkazu si Dášeňka sedne na zadeček a velmi se diví.
 

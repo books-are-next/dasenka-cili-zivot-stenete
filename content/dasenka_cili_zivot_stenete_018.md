@@ -1,8 +1,6 @@
 ---
-title: ''
+title: O chrtech a jiných psech
 ---
-
-## O chrtech a jiných psech
 
 Kdepak, chrty nestvořil Stvořitel, to by byla mejlka; chrty stvořil zajíc. Nejprve stvořil Stvořitel všechna zvířata, a psy, jakožto ty nejlepší, si nechal na konec. Aby mu to šlo rychleji od ruky, nachystal si tři hromady: hromadu kostí, hromadu masa a hromadu chlupů, a z těch tří hromad dělal psy. Nejdřív udělal foxteriéry a stájové pinče, – proto jsou tak chytří; a když se chtěl pustit do dalších, zvonilo poledne. „Nu dobrá,“ řekl Stvořitel, „když padla, nechám toho; však v jednu hodinu zase začnu tvořit.“ A šel si odpočinout.
 
