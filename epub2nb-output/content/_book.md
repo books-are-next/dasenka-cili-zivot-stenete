@@ -76,14 +76,39 @@ tocBase:
         title: |-
           Dášeňka
           čili život štěněte
+      - link: dasenka_cili_zivot_stenete_007.html
+        title: Kapitola 1
+      - link: dasenka_cili_zivot_stenete_008.html
+        title: Kapitola 2
+      - link: dasenka_cili_zivot_stenete_009.html
+        title: Kapitola 3
       - link: dasenka_cili_zivot_stenete_010.html
         title: |-
           Jak se
           fotografuje štěně
+      - link: dasenka_cili_zivot_stenete_011.html
+        title: Řeknu to rovnou...
+        hiddenTitle: true
       - link: dasenka_cili_zivot_stenete_012.html
         title: |-
           Pohádky pro Dášeňku,
           aby tiše seděla
+      - link: dasenka_cili_zivot_stenete_013.html
+        title: Pohádka o psím ocásku
+      - link: dasenka_cili_zivot_stenete_014.html
+        title: Proč teriéři hrabou
+      - link: dasenka_cili_zivot_stenete_015.html
+        title: O Foxovi
+      - link: dasenka_cili_zivot_stenete_016.html
+        title: O Alíkovi
+      - link: dasenka_cili_zivot_stenete_017.html
+        title: O dobrmanech
+      - link: dasenka_cili_zivot_stenete_018.html
+        title: O chrtech a jiných psech
+      - link: dasenka_cili_zivot_stenete_019.html
+        title: O psích zvycích
+      - link: dasenka_cili_zivot_stenete_020.html
+        title: O lidech
       - link: dasenka_cili_zivot_stenete_022.html
         title: |-
           Fotografická
