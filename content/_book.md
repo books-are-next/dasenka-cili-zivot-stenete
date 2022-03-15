@@ -21,6 +21,7 @@ readingOrder:
   - dasenka_cili_zivot_stenete_008.html
   - dasenka_cili_zivot_stenete_009.html
   - dasenka_cili_zivot_stenete_010.html
+  - dasenka_cili_zivot_stenete_011.html
   - dasenka_cili_zivot_stenete_012.html
   - dasenka_cili_zivot_stenete_013.html
   - dasenka_cili_zivot_stenete_014.html
@@ -30,7 +31,6 @@ readingOrder:
   - dasenka_cili_zivot_stenete_018.html
   - dasenka_cili_zivot_stenete_019.html
   - dasenka_cili_zivot_stenete_020.html
-  - dasenka_cili_zivot_stenete_021.html
   - dasenka_cili_zivot_stenete_022.html
   - dasenka_cili_zivot_stenete_054.html
   - dasenka_cili_zivot_stenete_055.html
