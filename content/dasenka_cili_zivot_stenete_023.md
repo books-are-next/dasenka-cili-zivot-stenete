@@ -1,5 +1,6 @@
 ---
 title: ''
+contentType: prose
 ---
 
 ![dasenka_fotky_001](./resources/dasenka_fotky_001.jpg)  

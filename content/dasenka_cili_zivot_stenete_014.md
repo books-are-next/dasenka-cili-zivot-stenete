@@ -1,5 +1,6 @@
 ---
 title: Proč teriéři hrabou
+contentType: prose
 ---
 
 Pěkně seď, Dášeňko, a neházej sebou; já jen zaostřím a stisknu spoušť, hned to bude. Zatím se dovíš nějakou pohádku, třeba proč pejskové teriéři hrabou v zemi. Lidé říkají, že tam hledají myšičky. Kdepak myšičky! Tys ještě nikdy myšičku neviděla, a přece, ty neřáde, hrabeš v mých záhonech. A víš ty, proč to děláš? Nevíš; tak já ti to povím.

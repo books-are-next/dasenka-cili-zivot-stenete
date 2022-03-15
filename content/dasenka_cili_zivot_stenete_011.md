@@ -1,6 +1,7 @@
 ---
 title: ''
 hiddenTitle: true
+contentType: prose
 ---
 
 Řeknu to rovnou: špatně; a vyžaduje to krajní trpělivosti od štěněte i od fotografa.
