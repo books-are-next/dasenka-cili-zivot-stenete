@@ -35,6 +35,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "dasenka_cili_zivot_stenete_001.md",
@@ -43,8 +44,8 @@
             "role": "cover",
             "inToc": false,
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_002.md",
@@ -53,8 +54,8 @@
             "role": "break",
             "inToc": false,
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_003.md",
@@ -63,8 +64,8 @@
             "role": "colophon",
             "inToc": false,
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_004.md",
@@ -73,8 +74,8 @@
             "role": "colophon",
             "inToc": false,
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_005.md",
@@ -84,8 +85,8 @@
             "inToc": true,
             "title": "Předmluva",
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_006.md",
@@ -95,8 +96,8 @@
             "inToc": true,
             "title": "Dášeňka\nčili život štěněte",
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_007.md",
@@ -106,8 +107,8 @@
             "inToc": true,
             "listType": "plain",
             "title": "Kapitola 1",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_008.md",
@@ -117,8 +118,8 @@
             "inToc": true,
             "listType": "plain",
             "title": "Kapitola 2",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_009.md",
@@ -128,8 +129,8 @@
             "inToc": true,
             "listType": "plain",
             "title": "Kapitola 3",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_010.md",
@@ -139,9 +140,9 @@
             "inToc": true,
             "title": "Jak se\nfotografuje štěně",
             "listType": "plain",
-            "children": [],
-            "hungry": true,
-            "devoured": false
+            "hungry": false,
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_011.md",
@@ -152,8 +153,8 @@
             "listType": "plain",
             "title": "Řeknu to rovnou...",
             "hiddenTitle": true,
-            "children": [],
-            "devoured": true
+            "devoured": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_012.md",
@@ -163,9 +164,9 @@
             "inToc": true,
             "title": "Pohádky pro Dášeňku,\naby tiše seděla",
             "listType": "plain",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_013.md",
@@ -175,9 +176,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "Pohádka o psím ocásku",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_014.md",
@@ -187,9 +188,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "Proč teriéři hrabou",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_015.md",
@@ -199,9 +200,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "O Foxovi",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_016.md",
@@ -211,9 +212,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "O Alíkovi",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_017.md",
@@ -223,9 +224,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "O dobrmanech",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_018.md",
@@ -235,9 +236,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "O chrtech a jiných psech",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_019.md",
@@ -247,9 +248,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "O psích zvycích",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_020.md",
@@ -259,9 +260,9 @@
             "inToc": true,
             "listType": "plain",
             "title": "O lidech",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_021.md",
@@ -270,9 +271,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": false,
-            "hungry": true
+            "devoured": true,
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_022.md",
@@ -282,9 +283,9 @@
             "inToc": true,
             "title": "Fotografická\npříloha",
             "listType": "plain",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_023.md",
@@ -293,9 +294,9 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
             "devoured": true,
-            "hungry": false
+            "hungry": false,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_024.md",
@@ -304,8 +305,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_025.md",
@@ -314,8 +315,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_026.md",
@@ -324,8 +325,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_027.md",
@@ -334,8 +335,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_028.md",
@@ -344,8 +345,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_029.md",
@@ -354,8 +355,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_030.md",
@@ -364,8 +365,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_031.md",
@@ -374,8 +375,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_032.md",
@@ -384,8 +385,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_033.md",
@@ -394,8 +395,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_034.md",
@@ -404,8 +405,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_035.md",
@@ -414,8 +415,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_036.md",
@@ -424,8 +425,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_037.md",
@@ -434,8 +435,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_038.md",
@@ -444,8 +445,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_039.md",
@@ -454,8 +455,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_040.md",
@@ -464,8 +465,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_041.md",
@@ -474,8 +475,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_042.md",
@@ -484,8 +485,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_043.md",
@@ -494,8 +495,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_044.md",
@@ -504,8 +505,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_045.md",
@@ -514,8 +515,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_046.md",
@@ -524,8 +525,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_047.md",
@@ -534,8 +535,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_048.md",
@@ -544,8 +545,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_049.md",
@@ -554,8 +555,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_050.md",
@@ -564,8 +565,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_051.md",
@@ -574,8 +575,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_052.md",
@@ -584,8 +585,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_053.md",
@@ -594,8 +595,8 @@
             "role": "chapter",
             "inToc": true,
             "listType": "plain",
-            "children": [],
-            "devoured": true
+            "devoured": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_054.md",
@@ -605,9 +606,9 @@
             "inToc": true,
             "title": "Ediční poznámka",
             "listType": "plain",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_055.md",
@@ -617,9 +618,9 @@
             "inToc": true,
             "title": "Život\na doba spisovatele\nKarla Čapka v datech",
             "listType": "plain",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_056.md",
@@ -629,9 +630,9 @@
             "inToc": true,
             "title": "První vydání knih Karla Čapka",
             "listType": "plain",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_057.md",
@@ -641,9 +642,9 @@
             "inToc": true,
             "title": "Poznámky pod čarou",
             "listType": "plain",
-            "children": [],
             "devoured": false,
-            "hungry": true
+            "hungry": true,
+            "children": []
           },
           {
             "filename": "dasenka_cili_zivot_stenete_058.md",
@@ -652,11 +653,10 @@
             "role": "colophon",
             "inToc": false,
             "listType": "plain",
-            "children": [],
-            "devoured": false
+            "devoured": false,
+            "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -667,7 +667,7 @@
       "identifier": "a6f6e36d-973d-4e9f-ac78-144c92e2d00e",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T08:24:41.266Z"
+      "modified": "2022-03-15T08:36:05.070Z"
     },
     "chapters": [
       {
@@ -1463,6 +1463,6 @@
       "user": "books-are-next",
       "repo": "dasenka-cili-zivot-stenete"
     },
-    "generatedAt": 1647332681754
+    "generatedAt": 1647333365769
   }
 }

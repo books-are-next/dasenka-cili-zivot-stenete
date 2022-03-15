@@ -18,3 +18,7 @@ Někdy si budeš hrát na ulici s pejsky a bude ti s nimi dobře a veselo, proto
 Tak běž.
 
 ![dasenka_ilustrace_053](./resources/dasenka_ilustrace_053.jpg)
+
+
+
+![dasenka_ilustrace_056](./resources/dasenka_ilustrace_056.jpg)
