@@ -1,5 +1,6 @@
 ---
 title: Poznámky pod čarou
+contentType: prose
 ---
 
 [\[1\]](./resources/undefined) Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._

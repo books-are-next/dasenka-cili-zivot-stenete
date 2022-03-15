@@ -1,5 +1,6 @@
 ---
 title: Kapitola 1
+contentType: prose
 ---
 
 Když se to narodilo, bylo to jenom takové bílé nic, do hrsti se to vešlo; ale anžto to mělo pár černých ušisek a vzadu ocásek, uznali jsme, že to je psisko, a protože jsme si přáli mít psí holčičku, dali jsme tomu jméno Dášeňka.

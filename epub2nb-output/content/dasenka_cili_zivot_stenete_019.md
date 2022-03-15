@@ -1,5 +1,6 @@
 ---
 title: O psích zvycích
+contentType: prose
 ---
 
 Co ti dnes, Dášeňko, povím, není žádná pohádka, ale pravda pravdoucí. Doufám, že chceš, aby z tebe byl vzdělaný pejsek, a že budeš dávat pozor.

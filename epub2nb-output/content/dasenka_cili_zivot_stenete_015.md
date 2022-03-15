@@ -1,5 +1,6 @@
 ---
 title: O Foxovi
+contentType: prose
 ---
 
 Když budeš moment držet, Dášeňko, povím ti pohádku o Foxovi.

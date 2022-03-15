@@ -1,5 +1,6 @@
 ---
 title: O lidech
+contentType: prose
 ---
 
 Nic platno, Dášo, už brzo budeš muset jít mezi jiné lidi a budeš patřit do jiné smečky. Tak já ti něco povím o lidech.
