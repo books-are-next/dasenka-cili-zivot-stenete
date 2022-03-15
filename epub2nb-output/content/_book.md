@@ -4,12 +4,13 @@ slug: book
 contentType: prose
 languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Dášeňka čili život štěněte
   identifier: a6f6e36d-973d-4e9f-ac78-144c92e2d00e
   author: Karel Čapek
   publisher: Městská knihovna v Praze
   modified: '2021-10-30T18:40:32.844Z'
-  languageCode: cs
   publisherShort: mkp
   edition: beletrie
 readingOrder:
@@ -20,7 +21,6 @@ readingOrder:
   - dasenka_cili_zivot_stenete_008.html
   - dasenka_cili_zivot_stenete_009.html
   - dasenka_cili_zivot_stenete_010.html
-  - dasenka_cili_zivot_stenete_011.html
   - dasenka_cili_zivot_stenete_012.html
   - dasenka_cili_zivot_stenete_013.html
   - dasenka_cili_zivot_stenete_014.html
@@ -32,37 +32,6 @@ readingOrder:
   - dasenka_cili_zivot_stenete_020.html
   - dasenka_cili_zivot_stenete_021.html
   - dasenka_cili_zivot_stenete_022.html
-  - dasenka_cili_zivot_stenete_023.html
-  - dasenka_cili_zivot_stenete_024.html
-  - dasenka_cili_zivot_stenete_025.html
-  - dasenka_cili_zivot_stenete_026.html
-  - dasenka_cili_zivot_stenete_027.html
-  - dasenka_cili_zivot_stenete_028.html
-  - dasenka_cili_zivot_stenete_029.html
-  - dasenka_cili_zivot_stenete_030.html
-  - dasenka_cili_zivot_stenete_031.html
-  - dasenka_cili_zivot_stenete_032.html
-  - dasenka_cili_zivot_stenete_033.html
-  - dasenka_cili_zivot_stenete_034.html
-  - dasenka_cili_zivot_stenete_035.html
-  - dasenka_cili_zivot_stenete_036.html
-  - dasenka_cili_zivot_stenete_037.html
-  - dasenka_cili_zivot_stenete_038.html
-  - dasenka_cili_zivot_stenete_039.html
-  - dasenka_cili_zivot_stenete_040.html
-  - dasenka_cili_zivot_stenete_041.html
-  - dasenka_cili_zivot_stenete_042.html
-  - dasenka_cili_zivot_stenete_043.html
-  - dasenka_cili_zivot_stenete_044.html
-  - dasenka_cili_zivot_stenete_045.html
-  - dasenka_cili_zivot_stenete_046.html
-  - dasenka_cili_zivot_stenete_047.html
-  - dasenka_cili_zivot_stenete_048.html
-  - dasenka_cili_zivot_stenete_049.html
-  - dasenka_cili_zivot_stenete_050.html
-  - dasenka_cili_zivot_stenete_051.html
-  - dasenka_cili_zivot_stenete_052.html
-  - dasenka_cili_zivot_stenete_053.html
   - dasenka_cili_zivot_stenete_054.html
   - dasenka_cili_zivot_stenete_055.html
   - dasenka_cili_zivot_stenete_056.html

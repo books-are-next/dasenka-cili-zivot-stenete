@@ -1,16 +1,17 @@
 {
   "author": "Karel Čapek",
+  "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "capek-dasenka-cili-zivot-stenete-4fe4b59",
+  "identifier": "capek-dasenka-cili-zivot-stenete-77b9a7e",
   "languagecode": "cs",
   "modified": "2021-10-30T18:40:32.844Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Dášeňka čili život štěněte",
-  "revision": "4fe4b59",
+  "revision": "77b9a7e",
   "generatedAt": {
-    "date": "Tue Mar 15 2022 08:04:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647331460506
+    "date": "Tue Mar 15 2022 08:25:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647332739416
   },
   "documents": [
     {
@@ -136,38 +137,18 @@
     {
       "title": "Jak se\nfotografuje štěně • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_010.html",
-      "words": 4,
-      "chars": 23,
-      "ideas": 2,
+      "words": 481,
+      "chars": 2853,
+      "ideas": 13,
       "role": "chapter",
       "order": 6,
       "prev": "dasenka_cili_zivot_stenete_009.html",
-      "next": "dasenka_cili_zivot_stenete_011.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Jak se\nfotografuje štěně",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_011.html",
-      "words": 476,
-      "chars": 2830,
-      "ideas": 10,
-      "role": "chapter",
-      "order": 7,
-      "prev": "dasenka_cili_zivot_stenete_010.html",
       "next": "dasenka_cili_zivot_stenete_012.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Jak se\nfotografuje štěně",
           "id": null,
           "children": []
         }
@@ -180,8 +161,8 @@
       "chars": 35,
       "ideas": 2,
       "role": "chapter",
-      "order": 8,
-      "prev": "dasenka_cili_zivot_stenete_011.html",
+      "order": 7,
+      "prev": "dasenka_cili_zivot_stenete_010.html",
       "next": "dasenka_cili_zivot_stenete_013.html",
       "toc": [
         {
@@ -200,7 +181,7 @@
       "chars": 3124,
       "ideas": 10,
       "role": "chapter",
-      "order": 9,
+      "order": 8,
       "prev": "dasenka_cili_zivot_stenete_012.html",
       "next": "dasenka_cili_zivot_stenete_014.html",
       "toc": [
@@ -220,7 +201,7 @@
       "chars": 2320,
       "ideas": 10,
       "role": "chapter",
-      "order": 10,
+      "order": 9,
       "prev": "dasenka_cili_zivot_stenete_013.html",
       "next": "dasenka_cili_zivot_stenete_015.html",
       "toc": [
@@ -240,7 +221,7 @@
       "chars": 2226,
       "ideas": 11,
       "role": "chapter",
-      "order": 11,
+      "order": 10,
       "prev": "dasenka_cili_zivot_stenete_014.html",
       "next": "dasenka_cili_zivot_stenete_016.html",
       "toc": [
@@ -260,7 +241,7 @@
       "chars": 1197,
       "ideas": 6,
       "role": "chapter",
-      "order": 12,
+      "order": 11,
       "prev": "dasenka_cili_zivot_stenete_015.html",
       "next": "dasenka_cili_zivot_stenete_017.html",
       "toc": [
@@ -280,7 +261,7 @@
       "chars": 1061,
       "ideas": 9,
       "role": "chapter",
-      "order": 13,
+      "order": 12,
       "prev": "dasenka_cili_zivot_stenete_016.html",
       "next": "dasenka_cili_zivot_stenete_018.html",
       "toc": [
@@ -300,7 +281,7 @@
       "chars": 1585,
       "ideas": 8,
       "role": "chapter",
-      "order": 14,
+      "order": 13,
       "prev": "dasenka_cili_zivot_stenete_017.html",
       "next": "dasenka_cili_zivot_stenete_019.html",
       "toc": [
@@ -320,7 +301,7 @@
       "chars": 1884,
       "ideas": 12,
       "role": "chapter",
-      "order": 15,
+      "order": 14,
       "prev": "dasenka_cili_zivot_stenete_018.html",
       "next": "dasenka_cili_zivot_stenete_020.html",
       "toc": [
@@ -340,7 +321,7 @@
       "chars": 1533,
       "ideas": 9,
       "role": "chapter",
-      "order": 16,
+      "order": 15,
       "prev": "dasenka_cili_zivot_stenete_019.html",
       "next": "dasenka_cili_zivot_stenete_021.html",
       "toc": [
@@ -360,7 +341,7 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 17,
+      "order": 16,
       "prev": "dasenka_cili_zivot_stenete_020.html",
       "next": "dasenka_cili_zivot_stenete_022.html",
       "toc": [
@@ -376,638 +357,18 @@
     {
       "title": "Fotografická\npříloha • Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_022.html",
-      "words": 2,
-      "chars": 19,
-      "ideas": 2,
+      "words": 119,
+      "chars": 495,
+      "ideas": 65,
       "role": "chapter",
-      "order": 18,
+      "order": 17,
       "prev": "dasenka_cili_zivot_stenete_021.html",
-      "next": "dasenka_cili_zivot_stenete_023.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Fotografická\npříloha",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_023.html",
-      "words": 8,
-      "chars": 31,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 19,
-      "prev": "dasenka_cili_zivot_stenete_022.html",
-      "next": "dasenka_cili_zivot_stenete_024.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_024.html",
-      "words": 5,
-      "chars": 20,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 20,
-      "prev": "dasenka_cili_zivot_stenete_023.html",
-      "next": "dasenka_cili_zivot_stenete_025.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_025.html",
-      "words": 3,
-      "chars": 13,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 21,
-      "prev": "dasenka_cili_zivot_stenete_024.html",
-      "next": "dasenka_cili_zivot_stenete_026.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_026.html",
-      "words": 4,
-      "chars": 21,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 22,
-      "prev": "dasenka_cili_zivot_stenete_025.html",
-      "next": "dasenka_cili_zivot_stenete_027.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_027.html",
-      "words": 4,
-      "chars": 19,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 23,
-      "prev": "dasenka_cili_zivot_stenete_026.html",
-      "next": "dasenka_cili_zivot_stenete_028.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_028.html",
-      "words": 4,
-      "chars": 17,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 24,
-      "prev": "dasenka_cili_zivot_stenete_027.html",
-      "next": "dasenka_cili_zivot_stenete_029.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_029.html",
-      "words": 4,
-      "chars": 15,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 25,
-      "prev": "dasenka_cili_zivot_stenete_028.html",
-      "next": "dasenka_cili_zivot_stenete_030.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_030.html",
-      "words": 2,
-      "chars": 6,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 26,
-      "prev": "dasenka_cili_zivot_stenete_029.html",
-      "next": "dasenka_cili_zivot_stenete_031.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_031.html",
-      "words": 5,
-      "chars": 18,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 27,
-      "prev": "dasenka_cili_zivot_stenete_030.html",
-      "next": "dasenka_cili_zivot_stenete_032.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_032.html",
-      "words": 5,
-      "chars": 22,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 28,
-      "prev": "dasenka_cili_zivot_stenete_031.html",
-      "next": "dasenka_cili_zivot_stenete_033.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_033.html",
-      "words": 4,
-      "chars": 18,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 29,
-      "prev": "dasenka_cili_zivot_stenete_032.html",
-      "next": "dasenka_cili_zivot_stenete_034.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_034.html",
-      "words": 3,
-      "chars": 8,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 30,
-      "prev": "dasenka_cili_zivot_stenete_033.html",
-      "next": "dasenka_cili_zivot_stenete_035.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_035.html",
-      "words": 3,
-      "chars": 13,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 31,
-      "prev": "dasenka_cili_zivot_stenete_034.html",
-      "next": "dasenka_cili_zivot_stenete_036.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_036.html",
-      "words": 3,
-      "chars": 18,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 32,
-      "prev": "dasenka_cili_zivot_stenete_035.html",
-      "next": "dasenka_cili_zivot_stenete_037.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_037.html",
-      "words": 3,
-      "chars": 14,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 33,
-      "prev": "dasenka_cili_zivot_stenete_036.html",
-      "next": "dasenka_cili_zivot_stenete_038.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_038.html",
-      "words": 4,
-      "chars": 15,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 34,
-      "prev": "dasenka_cili_zivot_stenete_037.html",
-      "next": "dasenka_cili_zivot_stenete_039.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_039.html",
-      "words": 6,
-      "chars": 28,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 35,
-      "prev": "dasenka_cili_zivot_stenete_038.html",
-      "next": "dasenka_cili_zivot_stenete_040.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_040.html",
-      "words": 3,
-      "chars": 11,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 36,
-      "prev": "dasenka_cili_zivot_stenete_039.html",
-      "next": "dasenka_cili_zivot_stenete_041.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_041.html",
-      "words": 5,
-      "chars": 26,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 37,
-      "prev": "dasenka_cili_zivot_stenete_040.html",
-      "next": "dasenka_cili_zivot_stenete_042.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_042.html",
-      "words": 4,
-      "chars": 17,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 38,
-      "prev": "dasenka_cili_zivot_stenete_041.html",
-      "next": "dasenka_cili_zivot_stenete_043.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_043.html",
-      "words": 2,
-      "chars": 9,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 39,
-      "prev": "dasenka_cili_zivot_stenete_042.html",
-      "next": "dasenka_cili_zivot_stenete_044.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_044.html",
-      "words": 4,
-      "chars": 18,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 40,
-      "prev": "dasenka_cili_zivot_stenete_043.html",
-      "next": "dasenka_cili_zivot_stenete_045.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_045.html",
-      "words": 3,
-      "chars": 9,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 41,
-      "prev": "dasenka_cili_zivot_stenete_044.html",
-      "next": "dasenka_cili_zivot_stenete_046.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_046.html",
-      "words": 3,
-      "chars": 7,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 42,
-      "prev": "dasenka_cili_zivot_stenete_045.html",
-      "next": "dasenka_cili_zivot_stenete_047.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_047.html",
-      "words": 5,
-      "chars": 20,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 43,
-      "prev": "dasenka_cili_zivot_stenete_046.html",
-      "next": "dasenka_cili_zivot_stenete_048.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_048.html",
-      "words": 3,
-      "chars": 9,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 44,
-      "prev": "dasenka_cili_zivot_stenete_047.html",
-      "next": "dasenka_cili_zivot_stenete_049.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_049.html",
-      "words": 2,
-      "chars": 6,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 45,
-      "prev": "dasenka_cili_zivot_stenete_048.html",
-      "next": "dasenka_cili_zivot_stenete_050.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_050.html",
-      "words": 3,
-      "chars": 13,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 46,
-      "prev": "dasenka_cili_zivot_stenete_049.html",
-      "next": "dasenka_cili_zivot_stenete_051.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_051.html",
-      "words": 3,
-      "chars": 14,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 47,
-      "prev": "dasenka_cili_zivot_stenete_050.html",
-      "next": "dasenka_cili_zivot_stenete_052.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_052.html",
-      "words": 3,
-      "chars": 10,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 48,
-      "prev": "dasenka_cili_zivot_stenete_051.html",
-      "next": "dasenka_cili_zivot_stenete_053.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Dášeňka čili život štěněte",
-      "file": "dasenka_cili_zivot_stenete_053.html",
-      "words": 3,
-      "chars": 11,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 49,
-      "prev": "dasenka_cili_zivot_stenete_052.html",
       "next": "dasenka_cili_zivot_stenete_054.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Fotografická\npříloha",
           "id": null,
           "children": []
         }
@@ -1020,8 +381,8 @@
       "chars": 606,
       "ideas": 4,
       "role": "chapter",
-      "order": 50,
-      "prev": "dasenka_cili_zivot_stenete_053.html",
+      "order": 18,
+      "prev": "dasenka_cili_zivot_stenete_022.html",
       "next": "dasenka_cili_zivot_stenete_055.html",
       "toc": [
         {
@@ -1040,7 +401,7 @@
       "chars": 2024,
       "ideas": 33,
       "role": "chapter",
-      "order": 51,
+      "order": 19,
       "prev": "dasenka_cili_zivot_stenete_054.html",
       "next": "dasenka_cili_zivot_stenete_056.html",
       "toc": [
@@ -1060,7 +421,7 @@
       "chars": 1155,
       "ideas": 67,
       "role": "chapter",
-      "order": 52,
+      "order": 20,
       "prev": "dasenka_cili_zivot_stenete_055.html",
       "next": "dasenka_cili_zivot_stenete_057.html",
       "toc": [
@@ -1080,7 +441,7 @@
       "chars": 256,
       "ideas": 4,
       "role": "chapter",
-      "order": 53,
+      "order": 21,
       "prev": "dasenka_cili_zivot_stenete_056.html",
       "next": "colophon.html",
       "toc": [
@@ -1116,14 +477,14 @@
   ],
   "totals": {
     "all": {
-      "words": 7864,
+      "words": 7866,
       "chars": 44688,
-      "ideas": 416
+      "ideas": 418
     },
     "chapters": {
-      "words": 7714,
+      "words": 7716,
       "chars": 43697,
-      "ideas": 388
+      "ideas": 390
     }
   }
 }
