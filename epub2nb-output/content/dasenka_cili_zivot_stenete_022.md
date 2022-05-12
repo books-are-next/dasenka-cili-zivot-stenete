@@ -1,7 +1,5 @@
 ---
-title: |-
-  Fotografická
-  příloha
+title: Fotografická příloha
 contentType: prose
 ---
 

@@ -1,7 +1,5 @@
 ---
-title: |-
-  Pohádky pro Dášeňku,
-  aby tiše seděla
+title: Pohádky pro Dášeňku, aby tiše seděla
 contentType: prose
 ---
 

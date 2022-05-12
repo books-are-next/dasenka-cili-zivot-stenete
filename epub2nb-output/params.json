@@ -51,7 +51,7 @@
             "filename": "dasenka_cili_zivot_stenete_002.md",
             "xhtml": "dasenka_cili_zivot_stenete_002.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "devoured": false,
@@ -658,8 +658,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -667,7 +666,7 @@
       "identifier": "a6f6e36d-973d-4e9f-ac78-144c92e2d00e",
       "author": "Karel Čapek",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T08:36:05.070Z"
+      "modified": "2017-12-20T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -701,7 +700,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_005.html"
       },
       {
-        "titleSuggest": "Dášeňka\nčili život štěněte",
+        "titleSuggest": "Dášeňka čili život štěněte",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_006.md",
         "xhtml": "dasenka_cili_zivot_stenete_006.html"
@@ -725,7 +724,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_009.html"
       },
       {
-        "titleSuggest": "Jak se\nfotografuje štěně",
+        "titleSuggest": "Jak se fotografuje štěně",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_010.md",
         "xhtml": "dasenka_cili_zivot_stenete_010.html"
@@ -737,7 +736,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_011.html"
       },
       {
-        "titleSuggest": "Pohádky pro Dášeňku,\naby tiše seděla",
+        "titleSuggest": "Pohádky pro Dášeňku, aby tiše seděla",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_012.md",
         "xhtml": "dasenka_cili_zivot_stenete_012.html"
@@ -797,7 +796,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_021.html"
       },
       {
-        "titleSuggest": "Fotografická\npříloha",
+        "titleSuggest": "Fotografická příloha",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_022.md",
         "xhtml": "dasenka_cili_zivot_stenete_022.html"
@@ -995,7 +994,7 @@
         "xhtml": "dasenka_cili_zivot_stenete_054.html"
       },
       {
-        "titleSuggest": "Život\na doba spisovatele\nKarla Čapka v datech",
+        "titleSuggest": "Život a doba spisovatele Karla Čapka v datech",
         "subtitleSuggest": "",
         "filename": "dasenka_cili_zivot_stenete_055.md",
         "xhtml": "dasenka_cili_zivot_stenete_055.html"
@@ -1463,6 +1462,6 @@
       "user": "books-are-next",
       "repo": "dasenka-cili-zivot-stenete"
     },
-    "generatedAt": 1647333365769
+    "generatedAt": 1652351343086
   }
 }

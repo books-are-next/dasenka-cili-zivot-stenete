@@ -1,7 +1,5 @@
 ---
-title: |-
-  Jak se
-  fotografuje štěně
+title: Jak se fotografuje štěně
 contentType: prose
 ---
 
