@@ -14,7 +14,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - dasenka_cili_zivot_stenete_002.html
+  - promo.html
   - dasenka_cili_zivot_stenete_005.html
   - dasenka_cili_zivot_stenete_006.html
   - dasenka_cili_zivot_stenete_007.html

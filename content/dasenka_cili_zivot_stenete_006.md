@@ -1,7 +1,5 @@
 ---
-title: |-
-  Dášeňka
-  čili život štěněte
+title: Dášeňka čili život štěněte
 contentType: prose
 ---
 
