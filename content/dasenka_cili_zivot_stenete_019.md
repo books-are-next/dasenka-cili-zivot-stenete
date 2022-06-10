@@ -3,6 +3,8 @@ title: O psích zvycích
 contentType: prose
 ---
 
+<section>
+
 Co ti dnes, Dášeňko, povím, není žádná pohádka, ale pravda pravdoucí. Doufám, že chceš, aby z tebe byl vzdělaný pejsek, a že budeš dávat pozor.
 
 Před mnoha sty a tisíci lety nežil ještě pes s člověkem. Tehdy totiž byl člověk ještě divoký a nedalo se s ním žít. A proto psi žili ve psích smečkách, ale ne v lesích jako srnky, nýbrž na velikánských loukách, které se jmenují prérie čili stepi. Proto má každý pes podnes tak rád louky a běhá po nich, až se mu uši třepou.
@@ -24,3 +26,5 @@ Teď už nepatří pes do psí smečky, ale do smečky lidské. Ti lidé, se kte
 Tak, a teď běž a hoň se po louce; to je tvá prérie.
 
 ![dasenka_ilustrace_055](./resources/dasenka_ilustrace_055.jpg)
+
+</section>

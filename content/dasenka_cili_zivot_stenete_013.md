@@ -3,6 +3,8 @@ title: Pohádka o psím ocásku
 contentType: prose
 ---
 
+<section>
+
 Tak poslouchej, Dášo, když budeš chvilinku pěkně sedět, povím ti pohádku. O čem pohádku? No, třeba pohádku o psím ocásku.
 
 Tak jednou byl jeden pejsek, Foxlík se jmenoval. Víš, jak vypadal? Celý bílý byl a měl jenom černá ušiska, a oči černé jako gagát[\[3\]](./resources/undefined), a čumáček černý jako antracit; a jako znak, že je pravý a čistokrevný teriér, měl v puse na patře černou skvrnu, jako ty ji máš. Vidíš, ty o ní ani nevíš; jednou ti ji ukážu v zrcadle, až budeš na celé kolo zívat. A ocásek ti měl takhle dlouhý, skoro tak dlouhý, jako byl jeho vlastní rodokmen, a tím ocáskem dovedl švihat, že jím mohl tulipány stínat. To neměl dělat, Dášeňko, ale takovou měl sílu v ocásku.
@@ -20,3 +22,5 @@ Na věčnou paměť toho slavného vítězství nad krvežíznivým Tatarem si v
 Tak, a už to je. Děkuju za posezení.
 
 ![dasenka_ilustrace_045](./resources/dasenka_ilustrace_045.jpg)
+
+</section>

@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 Řeknu to rovnou: špatně; a vyžaduje to krajní trpělivosti od štěněte i od fotografa.
 
 Dejme tomu, slunce zasvítí na dojemnou scénu štěněte žeroucího z misky. Člověk se tryskem řítí pro fotografický aparát, aby zvěčnil tento působivý výjev ze života štěněte. Nežli se vrátí s aparátem, je miska ovšem prázdná. „Honem, nalejte Dášeňce ještě jednu misku mlíčka,“ káže fotograf a s náležitou odbornou rychlostí nařídí expozici a zaostří objektiv, zatímco se Dášeňka hrdinně dává do druhé misky. „Tak, teď je to pěkné,“ vydechne fotograf, a v tu chvíli zjistí, že zapomněl dát do aparátu film. Než jej tam vloží, sežere Dášeňka druhou misku mléka. „Dejte jí ještě jednou,“ káže fotografující člověk a honem zaostřuje. Jenže Dášeňka si vezme do hlavy, že už nebude a nebude žrát. A že prý ne. Marné jí domlouvat. Marné jí strkat nosánek do mléka. Nechce, a basta. S povzdechem odnáší fotograf svůj aparát domů; a Dášeňka, vědoma si svého vítězství, jde nyní spořádat třetí porci mlíčka.
@@ -23,3 +25,5 @@ Na té fotografické páračce je nejzajímavější, když se takové štěně 
 Zkrátka, máte-li fotografický aparát, pořiďte si k němu štěně; máte-li štěně, pořiďte si k němu fotografický aparát, a pak zkuste své štěstí. Je to napínavé, napínavější než lov na plachou zebru nebo tygra bengálského. A více vám už o tom neřeknu: přesvědčte se sami.
 
 ![dasenka_ilustrace_042-300px](./resources/dasenka_ilustrace_042-300px.jpg)
+
+</section>

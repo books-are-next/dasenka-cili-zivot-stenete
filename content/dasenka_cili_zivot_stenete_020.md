@@ -3,6 +3,8 @@ title: O lidech
 contentType: prose
 ---
 
+<section>
+
 Nic platno, Dášo, už brzo budeš muset jít mezi jiné lidi a budeš patřit do jiné smečky. Tak já ti něco povím o lidech.
 
 Podle tvrzení některých zvířat je člověk zlý, i mnozí lidé to říkají; ale nevěř tomu. Kdyby byl člověk zlý a necitelný, vy pejskové byste se k němu nepřidali a podnes byste žili divoce ve stepích. Ale z toho, že s ním kamarádíte, je vidět, že vás už před tisíci lety hladil a škrabal za uchem a krmil.
@@ -19,6 +21,12 @@ Tak běž.
 
 ![dasenka_ilustrace_053](./resources/dasenka_ilustrace_053.jpg)
 
+</section>
 
+
+
+<section>
 
 ![dasenka_ilustrace_056](./resources/dasenka_ilustrace_056.jpg)
+
+</section>

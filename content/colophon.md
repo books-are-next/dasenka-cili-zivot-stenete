@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Karel Čapek**  
 **Dášeňka čili život štěněte**  
 Edice Bratři Čapkové  
@@ -9,11 +10,8 @@ Obálka Alena Kubíková
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-1. vydání z 12. 5. 2022.
-
-***
-
-Znění tohoto textu vychází z díla [Dášeňka čili život štěněte](https://search.mlp.cz/cz/titul/zahradnikuv-rok-mel-jsem-psa-a-kocku-kalendar/25198/) tak, jak bylo vydáno v Praze nakladatelstvím Československý spisovatel v roce 1983. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
+</section>  
+1. vydání z 10. 6. 2022.
 
 ***
 
