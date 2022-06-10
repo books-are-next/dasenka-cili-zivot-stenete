@@ -3,6 +3,8 @@ title: Proč teriéři hrabou
 contentType: prose
 ---
 
+<section>
+
 Pěkně seď, Dášeňko, a neházej sebou; já jen zaostřím a stisknu spoušť, hned to bude. Zatím se dovíš nějakou pohádku, třeba proč pejskové teriéři hrabou v zemi. Lidé říkají, že tam hledají myšičky. Kdepak myšičky! Tys ještě nikdy myšičku neviděla, a přece, ty neřáde, hrabeš v mých záhonech. A víš ty, proč to děláš? Nevíš; tak já ti to povím.
 
 Už jsem ti vypravoval pohádku, kterak bohatý Foxlík, praotec všech pravých foxteriérů, v boji s Tatarem o ocásek přišel. Když porazil toho sveřepého chána, našel na zemi uťatou špičku své slavné a rekovné oháňky; a protože nechtěl, aby si s jeho bývalým ocáskem nakonec kočky hrály, zahrabal jej hluboko do země. A seď hezky, ty neposedo.
@@ -20,3 +22,5 @@ A vidíš, Dášeňko, od vás foxteriérů jsme to odkoukali my lidé a také s
 Hotovo.
 
 ![dasenka_ilustrace_047](./resources/dasenka_ilustrace_047.jpg)
+
+</section>

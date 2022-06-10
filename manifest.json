@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-dasenka-cili-zivot-stenete-c63f8fb",
-  "revision": "c63f8fb",
+  "identifier": "capek-dasenka-cili-zivot-stenete-421b8d6",
+  "revision": "421b8d6",
   "readingOrder": [
     "promo.html",
     "dasenka_cili_zivot_stenete_005.html",
@@ -36,8 +36,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351813517
+    "date": "Fri Jun 10 2022 17:48:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883317217
   },
   "documents": [
     {
@@ -75,9 +75,9 @@
     {
       "title": "Dášeňka čili život štěněte",
       "file": "dasenka_cili_zivot_stenete_006.html",
-      "words": 4,
+      "words": 5,
       "chars": 26,
-      "ideas": 1,
+      "ideas": 2,
       "role": "chapter",
       "order": 2,
       "prev": "dasenka_cili_zivot_stenete_005.html",
@@ -155,9 +155,9 @@
     {
       "title": "Jak se fotografuje štěně",
       "file": "dasenka_cili_zivot_stenete_010.html",
-      "words": 4,
+      "words": 5,
       "chars": 24,
-      "ideas": 1,
+      "ideas": 2,
       "role": "chapter",
       "order": 6,
       "prev": "dasenka_cili_zivot_stenete_009.html",
@@ -195,9 +195,9 @@
     {
       "title": "Pohádky pro Dášeňku, aby tiše seděla",
       "file": "dasenka_cili_zivot_stenete_012.html",
-      "words": 6,
+      "words": 7,
       "chars": 36,
-      "ideas": 1,
+      "ideas": 2,
       "role": "chapter",
       "order": 8,
       "prev": "dasenka_cili_zivot_stenete_011.html",
@@ -475,9 +475,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 111,
-      "chars": 743,
-      "ideas": 14,
+      "words": 46,
+      "chars": 337,
+      "ideas": 5,
       "role": "colophon",
       "order": null,
       "prev": "dasenka_cili_zivot_stenete_057.html",
@@ -495,14 +495,14 @@
   ],
   "totals": {
     "all": {
-      "words": 7835,
-      "chars": 44494,
-      "ideas": 402
+      "words": 7773,
+      "chars": 44088,
+      "ideas": 396
     },
     "chapters": {
-      "words": 7716,
+      "words": 7719,
       "chars": 43703,
-      "ideas": 384
+      "ideas": 387
     }
   }
 }
