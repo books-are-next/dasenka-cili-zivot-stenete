@@ -9,7 +9,8 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-30T18:40:32.844Z",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2474-0"
     },
     "elements": {
       "title": "mlpuroven2kapitola  \nmlpuroven2kapitolasamostatne \nmlpuroven3nadpis  \nmlpuroven3nadpissamostatne ",
@@ -1462,6 +1463,6 @@
       "user": "books-are-next",
       "repo": "dasenka-cili-zivot-stenete"
     },
-    "generatedAt": 1654948200497
+    "generatedAt": 1655155748263
   }
 }
