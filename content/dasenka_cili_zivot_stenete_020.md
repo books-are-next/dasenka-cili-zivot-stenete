@@ -24,7 +24,6 @@ Tak běž.
 </section>
 
 
-
 <section>
 
 ![dasenka_ilustrace_056](./resources/dasenka_ilustrace_056.jpg)

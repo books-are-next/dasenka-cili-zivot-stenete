@@ -10,7 +10,6 @@ contentType: prose
 </section>
 
 
-
 <section>
 
 ![dasenka_fotky_001](./resources/dasenka_fotky_001.jpg)  
@@ -18,8 +17,6 @@ contentType: prose
 Ze začátku se to vešlo do dlaně
 
 </section>
-
-
 
 <section>
 
@@ -29,8 +26,6 @@ Z prvních dnů života
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_003](./resources/dasenka_fotky_003.jpg)  
@@ -38,8 +33,6 @@ Z prvních dnů života
 Rodinný život
 
 </section>
-
-
 
 <section>
 
@@ -49,8 +42,6 @@ Kterak Dášeňka rostla
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_005](./resources/dasenka_fotky_005.jpg)  
@@ -58,8 +49,6 @@ Kterak Dášeňka rostla
 Ticho, Dášeňka spí!
 
 </section>
-
-
 
 <section>
 
@@ -69,8 +58,6 @@ Na výzkumné cestě
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_007](./resources/dasenka_fotky_007.jpg)  
@@ -78,8 +65,6 @@ Na výzkumné cestě
 Štěně v krabici
 
 </section>
-
-
 
 <section>
 
@@ -89,8 +74,6 @@ Krmení
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_009](./resources/dasenka_fotky_009.jpg)  
@@ -98,8 +81,6 @@ Krmení
 Hraje si s kolíčky
 
 </section>
-
-
 
 <section>
 
@@ -109,8 +90,6 @@ Hraje si s kolíčky
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_011](./resources/dasenka_fotky_011.jpg)  
@@ -118,8 +97,6 @@ Hraje si s kolíčky
 Necháš ty sandály!
 
 </section>
-
-
 
 <section>
 
@@ -129,8 +106,6 @@ V košíku
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_013](./resources/dasenka_fotky_013.jpg)  
@@ -138,8 +113,6 @@ V košíku
 Kouše maminku
 
 </section>
-
-
 
 <section>
 
@@ -149,8 +122,6 @@ Zátiší zahradnické
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_015](./resources/dasenka_fotky_015.jpg)  
@@ -158,8 +129,6 @@ Zátiší zahradnické
 Zátiší vědecké
 
 </section>
-
-
 
 <section>
 
@@ -169,8 +138,6 @@ Pozor, zlý pes!
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_017](./resources/dasenka_fotky_017.jpg)  
@@ -178,8 +145,6 @@ Pozor, zlý pes!
 Vyplazuje jazyk na celý svět
 
 </section>
-
-
 
 <section>
 
@@ -189,8 +154,6 @@ V zamyšlení
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_019](./resources/dasenka_fotky_019.jpg)  
@@ -198,8 +161,6 @@ V zamyšlení
 Zívnutí čili dlouhá chvíle
 
 </section>
-
-
 
 <section>
 
@@ -209,8 +170,6 @@ Dášeňka na talíři
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_021](./resources/dasenka_fotky_021.jpg)  
@@ -218,8 +177,6 @@ Dášeňka na talíři
 Odpočinek
 
 </section>
-
-
 
 <section>
 
@@ -229,8 +186,6 @@ Odpočinek
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_023](./resources/dasenka_fotky_023.jpg)  
@@ -238,8 +193,6 @@ Odpočinek
 Na číhané
 
 </section>
-
-
 
 <section>
 
@@ -249,8 +202,6 @@ Co teď?
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_025](./resources/dasenka_fotky_025.jpg)  
@@ -258,8 +209,6 @@ Co teď?
 Dravé zvíře za mříží
 
 </section>
-
-
 
 <section>
 
@@ -269,8 +218,6 @@ V přírodě
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_027](./resources/dasenka_fotky_027.jpg)  
@@ -278,8 +225,6 @@ V přírodě
 Leknín
 
 </section>
-
-
 
 <section>
 
@@ -289,8 +234,6 @@ Kropicí konve
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_029](./resources/dasenka_fotky_029.jpg)  
@@ -299,8 +242,6 @@ Ve společnosti
 
 </section>
 
-
-
 <section>
 
 ![dasenka_fotky_030](./resources/dasenka_fotky_030.jpg)  
@@ -308,8 +249,6 @@ Ve společnosti
 S maminkou
 
 </section>
-
-
 
 <section>
 

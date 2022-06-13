@@ -13,6 +13,7 @@ meta:
   modified: '2021-10-30T18:40:32.844Z'
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2474-0
 readingOrder:
   - promo.html
   - dasenka_cili_zivot_stenete_005.html
