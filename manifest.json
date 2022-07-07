@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-dasenka-cili-zivot-stenete-16ddc9d",
-  "revision": "16ddc9d",
+  "identifier": "capek-dasenka-cili-zivot-stenete-21458a1",
+  "revision": "21458a1",
   "readingOrder": [
     "promo.html",
     "dasenka_cili_zivot_stenete_005.html",
@@ -33,11 +33,11 @@
     "dasenka_cili_zivot_stenete_055.html",
     "dasenka_cili_zivot_stenete_056.html",
     "dasenka_cili_zivot_stenete_057.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:58:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978335630
+    "date": "Thu Jul 07 2022 08:20:26 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657182026848
   },
   "documents": [
     {
@@ -166,7 +166,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak se fotografuje štěně",
+          "name": "Jak se fotografuje štěně",
           "id": null,
           "children": []
         }
@@ -226,7 +226,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Pohádka o psím ocásku",
+          "name": "Pohádka o psím ocásku",
           "id": null,
           "children": []
         }
@@ -326,7 +326,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "O chrtech a jiných psech",
+          "name": "O chrtech a jiných psech",
           "id": null,
           "children": []
         }
@@ -426,7 +426,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Život a doba spisovatele Karla Čapka v datech",
+          "name": "Život a doba spisovatele Karla Čapka v datech",
           "id": null,
           "children": []
         }
@@ -461,7 +461,7 @@
       "role": "chapter",
       "order": 21,
       "prev": "dasenka_cili_zivot_stenete_056.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -474,11 +474,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 139,
-      "chars": 939,
+      "chars": 938,
       "ideas": 17,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "dasenka_cili_zivot_stenete_057.html",
       "next": null,
@@ -496,7 +496,7 @@
   "totals": {
     "all": {
       "words": 7866,
-      "chars": 44690,
+      "chars": 44689,
       "ideas": 408
     },
     "chapters": {
