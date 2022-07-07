@@ -37,7 +37,7 @@ readingOrder:
   - dasenka_cili_zivot_stenete_055.html
   - dasenka_cili_zivot_stenete_056.html
   - dasenka_cili_zivot_stenete_057.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
