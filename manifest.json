@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-dasenka-cili-zivot-stenete-d5834c3",
-  "revision": "d5834c3",
+  "identifier": "capek-dasenka-cili-zivot-stenete-1c3dec9",
+  "revision": "1c3dec9",
   "readingOrder": [
     "promo.html",
     "dasenka_cili_zivot_stenete_005.html",
@@ -36,8 +36,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 09:58:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657187916787
+    "date": "Thu Jul 21 2022 14:40:42 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414442701
   },
   "documents": [
     {
@@ -476,7 +476,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 139,
-      "chars": 938,
+      "chars": 939,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -496,7 +496,7 @@
   "totals": {
     "all": {
       "words": 7866,
-      "chars": 44689,
+      "chars": 44690,
       "ideas": 408
     },
     "chapters": {
