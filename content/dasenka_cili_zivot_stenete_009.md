@@ -103,7 +103,7 @@ Někdy se udělalo v domě takové zvláštní ticho, Dášeňka byla někde v k
 
 Přetahování
 
-4\. Řeckořímsko-psí _zápas_ je další, a pokud se Dášeňky týče, také nejoblíbenější cvik těžké atletiky. To se obyčejně Dášeňka vrhne s nádhernou bojovností na mámu a zakousne se jí do nosu, do ucha nebo do ocásku; máma setřese odpůrce a popadne ho za krk; nastává takzvaný infighting[\[2\]](./resources/undefined), to jest, oba borci se kutálejí v ringu (zpravidla na trávníku) a není vidět nic než neobyčejné množství předních i zadních nohou zmítajících se v chumlu chlupů, někdy to zakvikne, někdy z toho vítězně mávne ocásek, oba zápasníci divoce vrčí a dorážejí na sebe všemi čtyřmi, načež Iris vyskočí a oběhne třikrát celou zahradu, pronásledována bojovnou Dášeňkou; pak to začne znovu. To se rozumí, máma předvádí exhibiční zápas, nekouše doopravdy; ale Dášeňka v zápalu boje rve, trhá a kouše maminku, co jen síly má. Chudák Iris nechá v každém zápase nejeden chlup; čím víc roste, sílí a ježatí Dášeňka, tím je máma rozedranější a vypelichanější. Inu, s dětmi je kříž, to vám dosvědčí vaše maminka.
+4\. Řeckořímsko-psí _zápas_ je další, a pokud se Dášeňky týče, také nejoblíbenější cvik těžké atletiky. To se obyčejně Dášeňka vrhne s nádhernou bojovností na mámu a zakousne se jí do nosu, do ucha nebo do ocásku; máma setřese odpůrce a popadne ho za krk; nastává takzvaný infighting[^2], to jest, oba borci se kutálejí v ringu (zpravidla na trávníku) a není vidět nic než neobyčejné množství předních i zadních nohou zmítajících se v chumlu chlupů, někdy to zakvikne, někdy z toho vítězně mávne ocásek, oba zápasníci divoce vrčí a dorážejí na sebe všemi čtyřmi, načež Iris vyskočí a oběhne třikrát celou zahradu, pronásledována bojovnou Dášeňkou; pak to začne znovu. To se rozumí, máma předvádí exhibiční zápas, nekouše doopravdy; ale Dášeňka v zápalu boje rve, trhá a kouše maminku, co jen síly má. Chudák Iris nechá v každém zápase nejeden chlup; čím víc roste, sílí a ježatí Dášeňka, tím je máma rozedranější a vypelichanější. Inu, s dětmi je kříž, to vám dosvědčí vaše maminka.
 
 ![dasenka_ilustrace_031](./resources/dasenka_ilustrace_031.jpg)  
 
@@ -150,3 +150,9 @@ Před jídlem / po jídle
 Na pařeništi
 
 </section>
+
+[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
+
+[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
+
+[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
