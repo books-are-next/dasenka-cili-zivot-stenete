@@ -66,3 +66,9 @@ Organizuje pomocnou sociální akci Demokracie dětem.
 Podílí se na organizaci světového kongresu Penklubů v Praze. Opakovaně je navrhován na Nobelovu cenu za literaturu. Po mnichovské konferenci (29.–30. 9. 1938) čelí nenávistné kampani, bojuje s českým fašismem a prožívá nejtěžší období svého života. Umírá 25. prosince na zápal plic. Pohřeb na Vyšehradě se koná 29. prosince.
 
 </section>
+
+[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
+
+[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
+
+[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._

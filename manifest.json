@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-dasenka-cili-zivot-stenete-1c3dec9",
-  "revision": "1c3dec9",
+  "identifier": "capek-dasenka-cili-zivot-stenete-28923ea",
+  "revision": "28923ea",
   "readingOrder": [
     "promo.html",
     "dasenka_cili_zivot_stenete_005.html",
@@ -36,8 +36,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:42 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414442701
+    "date": "Thu Sep 29 2022 21:21:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486461831
   },
   "documents": [
     {
@@ -115,9 +115,9 @@
     {
       "title": "Kapitola 2",
       "file": "dasenka_cili_zivot_stenete_008.html",
-      "words": 827,
-      "chars": 4528,
-      "ideas": 20,
+      "words": 844,
+      "chars": 4621,
+      "ideas": 21,
       "role": "chapter",
       "order": 4,
       "prev": "dasenka_cili_zivot_stenete_007.html",
@@ -135,9 +135,9 @@
     {
       "title": "Kapitola 3",
       "file": "dasenka_cili_zivot_stenete_009.html",
-      "words": 1761,
-      "chars": 10219,
-      "ideas": 73,
+      "words": 1772,
+      "chars": 10279,
+      "ideas": 74,
       "role": "chapter",
       "order": 5,
       "prev": "dasenka_cili_zivot_stenete_008.html",
@@ -215,9 +215,9 @@
     {
       "title": "Pohádka o psím ocásku",
       "file": "dasenka_cili_zivot_stenete_013.html",
-      "words": 553,
-      "chars": 3124,
-      "ideas": 10,
+      "words": 566,
+      "chars": 3200,
+      "ideas": 11,
       "role": "chapter",
       "order": 9,
       "prev": "dasenka_cili_zivot_stenete_012.html",
@@ -455,9 +455,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "dasenka_cili_zivot_stenete_057.html",
-      "words": 44,
-      "chars": 256,
-      "ideas": 4,
+      "words": 85,
+      "chars": 485,
+      "ideas": 7,
       "role": "chapter",
       "order": 21,
       "prev": "dasenka_cili_zivot_stenete_056.html",
@@ -475,9 +475,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 139,
-      "chars": 939,
-      "ideas": 17,
+      "words": 126,
+      "chars": 859,
+      "ideas": 15,
       "role": "about",
       "order": null,
       "prev": "dasenka_cili_zivot_stenete_057.html",
@@ -495,14 +495,14 @@
   ],
   "totals": {
     "all": {
-      "words": 7866,
-      "chars": 44690,
-      "ideas": 408
+      "words": 7935,
+      "chars": 45068,
+      "ideas": 412
     },
     "chapters": {
-      "words": 7719,
-      "chars": 43703,
-      "ideas": 387
+      "words": 7801,
+      "chars": 44161,
+      "ideas": 393
     }
   }
 }
