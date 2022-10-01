@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "capek-dasenka-cili-zivot-stenete-28923ea",
-  "revision": "28923ea",
+  "identifier": "capek-dasenka-cili-zivot-stenete-96c449f",
+  "revision": "96c449f",
   "readingOrder": [
     "promo.html",
     "dasenka_cili_zivot_stenete_005.html",
@@ -36,8 +36,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:21:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664486461831
+    "date": "Sat Oct 01 2022 15:52:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664639551874
   },
   "documents": [
     {
