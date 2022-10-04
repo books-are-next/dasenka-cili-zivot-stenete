@@ -9,12 +9,6 @@ contentType: prose
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
-
 
 <section>
 
@@ -24,11 +18,6 @@ Ze začátku se to vešlo do dlaně
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -38,11 +27,6 @@ Z prvních dnů života
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -52,11 +36,6 @@ Rodinný život
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -66,11 +45,6 @@ Kterak Dášeňka rostla
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -80,11 +54,6 @@ Ticho, Dášeňka spí!
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -94,11 +63,6 @@ Na výzkumné cestě
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -108,11 +72,6 @@ Na výzkumné cestě
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -122,11 +81,6 @@ Krmení
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -136,11 +90,6 @@ Hraje si s kolíčky
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -150,11 +99,6 @@ Hraje si s kolíčky
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -164,11 +108,6 @@ Necháš ty sandály!
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -178,11 +117,6 @@ V košíku
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -192,11 +126,6 @@ Kouše maminku
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -206,11 +135,6 @@ Zátiší zahradnické
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -220,11 +144,6 @@ Zátiší vědecké
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -234,11 +153,6 @@ Pozor, zlý pes!
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -248,11 +162,6 @@ Vyplazuje jazyk na celý svět
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -262,11 +171,6 @@ V zamyšlení
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -276,11 +180,6 @@ Zívnutí čili dlouhá chvíle
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -290,11 +189,6 @@ Dášeňka na talíři
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -304,11 +198,6 @@ Odpočinek
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -318,11 +207,6 @@ Odpočinek
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -332,11 +216,6 @@ Na číhané
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -346,11 +225,6 @@ Co teď?
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -360,11 +234,6 @@ Dravé zvíře za mříží
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -374,11 +243,6 @@ V přírodě
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -388,11 +252,6 @@ Leknín
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -402,11 +261,6 @@ Kropicí konve
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -416,11 +270,6 @@ Ve společnosti
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
@@ -430,11 +279,6 @@ S maminkou
 
 </section>
 
-[^1]: Bis, repete a da capo (ital.) – v hudebním názvosloví dvakrát, opakuj od začátku. _Pozn. red._
-
-[^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._
-
-[^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._
 
 <section>
 
