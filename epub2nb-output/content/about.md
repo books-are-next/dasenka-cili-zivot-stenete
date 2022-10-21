@@ -14,7 +14,7 @@ V MKP 2. opravené vydání
 [^2]: Infighting (angl.) – boj zblízka (např. v boxu). _Pozn. red._  
 [^3]: Gagát – tmavý minerál, drahý kámen; dříve zaměňovaný s jantarem. _Pozn. red._  
 ISBN 978-80-274-2474-0 (webová kniha)  
-V MKP 1. elektronické vydání z 10. 10. 2022.
+V MKP 1. elektronické vydání z 21. 10. 2022.
 
 ***
 
